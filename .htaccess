@@ -1,0 +1,38 @@
+# HTTPS redirect disabled for local development
+# RewriteEngine On
+# RewriteBase /
+# RewriteCond %{REMOTE_ADDR} !^127\.0\.0\.1$
+# RewriteCond %{REMOTE_ADDR} !^::1$
+# RewriteCond %{REMOTE_ADDR} !^192\.168\.
+# RewriteCond %{REMOTE_ADDR} !^10\.
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Security Headers
+Header always set X-Frame-Options "DENY"
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-XSS-Protection "1; mode=block"
+# Header always set Referrer-Policy "strict-origin-when-cross-origin"
+# Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
+
+# Error handling
+ErrorDocument 404 /404.php
+ErrorDocument 500 /500.php
+php_flag display_errors off
+php_value error_log logs/php_errors.log
+php_value session.cookie_httponly 1
+# Disable secure cookie in local dev (no HTTPS)
+# php_value session.cookie_secure 1
+php_value session.cookie_samesite "Strict"
+
+# Prevent directory listing
+Options -Indexes
+
+# Protect sensitive files
+<FilesMatch "(config\.php|\.htaccess|db\.php)$">
+    Require all denied
+</FilesMatch>
+
+# Cache control for static assets
+<FilesMatch "\.(jpg|jpeg|png|gif|css|js|ico)$">
+    Header set Cache-Control "max-age=604800, public"
+</FilesMatch>

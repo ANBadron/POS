@@ -1,0 +1,140 @@
+[19-May-2025 05:45:20 Europe/Berlin] [2025-05-19 05:45:20] Database Error in customer_profile.php (Line: 42): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Balance' in 'field list'
+
+[19-May-2025 05:45:23 Europe/Berlin] [2025-05-19 05:45:23] Database Error in customer_profile.php (Line: 42): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Balance' in 'field list'
+
+[19-May-2025 06:50:42 Europe/Berlin] [2025-05-19 06:50:42] Database Error in customer_profile.php (Line: 42): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Balance' in 'field list'
+
+[19-May-2025 06:50:42 Europe/Berlin] [2025-05-19 06:50:42] Database Error in customer_profile.php (Line: 42): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Balance' in 'field list'
+
+[19-May-2025 07:49:08 Europe/Berlin] Error fetching customers: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CreditBalance' in 'field list'
+[19-May-2025 07:49:09 Europe/Berlin] Error fetching customers: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CreditBalance' in 'field list'
+[19-May-2025 07:49:09 Europe/Berlin] Error fetching customers: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CreditBalance' in 'field list'
+[20-May-2025 02:53:20 Europe/Berlin] Login attempt for user: admin
+[20-May-2025 02:53:20 Europe/Berlin] Provided password: admin123
+[20-May-2025 02:53:20 Europe/Berlin] Stored hash: $2y$12$VTPRWlDM1sxKTcUgVC7uh.QZpa.sZdrwnoQsBSrUFruk.jG/YeD.2
+[20-May-2025 02:53:21 Europe/Berlin] Password verify result: false
+[20-May-2025 03:05:47 Europe/Berlin] Login attempt for user: admin
+[20-May-2025 03:05:47 Europe/Berlin] Provided password: admin123
+[20-May-2025 03:05:47 Europe/Berlin] Stored hash: $2y$12$VTPRWlDM1sxKTcUgVC7uh.QZpa.sZdrwnoQsBSrUFruk.jG/YeD.2
+[20-May-2025 03:05:48 Europe/Berlin] Password verify result: false
+[20-May-2025 03:07:08 Europe/Berlin] Login attempt for user: admin
+[20-May-2025 03:07:08 Europe/Berlin] Provided password: $2y$12$a65t5ziLEs8yK91yUEAU.uP/6EMaK8yNuNbyfmKdxnAWpIaRJEwJa
+[20-May-2025 03:07:08 Europe/Berlin] Stored hash: $2y$12$VTPRWlDM1sxKTcUgVC7uh.QZpa.sZdrwnoQsBSrUFruk.jG/YeD.2
+[20-May-2025 03:07:08 Europe/Berlin] Password verify result: false
+[20-May-2025 03:07:41 Europe/Berlin] Login attempt for user: admin
+[20-May-2025 03:07:41 Europe/Berlin] Provided password: $2y$12$8u5j1nE7xD0fOLnxQ70p7e1zihKNNPnr9zkV7mmWCYm4Ke0n68KCa
+[20-May-2025 03:07:41 Europe/Berlin] Stored hash: $2y$12$VTPRWlDM1sxKTcUgVC7uh.QZpa.sZdrwnoQsBSrUFruk.jG/YeD.2
+[20-May-2025 03:07:42 Europe/Berlin] Password verify result: false
+[20-May-2025 07:39:31 Europe/Berlin] Login attempt for user: admin
+[20-May-2025 07:39:31 Europe/Berlin] Provided password: admin123
+[20-May-2025 07:39:31 Europe/Berlin] Stored hash: $2y$12$VTPRWlDM1sxKTcUgVC7uh.QZpa.sZdrwnoQsBSrUFruk.jG/YeD.2
+[20-May-2025 07:39:31 Europe/Berlin] Password verify result: false
+[20-May-2025 07:39:50 Europe/Berlin] Login attempt for user: admin
+[20-May-2025 07:39:50 Europe/Berlin] Provided password: $2y$12$t5GnksxpbdpxjMZPncxkE.GnULJRnTTLUSYMbiQfKq07urQebi2NW
+[20-May-2025 07:39:50 Europe/Berlin] Stored hash: $2y$12$t5GnksxpbdpxjMZPncxkE.GnULJRnTTLUSYMbiQfKq07urQebi2NW
+[20-May-2025 07:39:50 Europe/Berlin] Password verify result: false
+[20-May-2025 07:39:53 Europe/Berlin] Login attempt for user: admin
+[20-May-2025 07:39:53 Europe/Berlin] Provided password: admin123
+[20-May-2025 07:39:53 Europe/Berlin] Stored hash: $2y$12$t5GnksxpbdpxjMZPncxkE.GnULJRnTTLUSYMbiQfKq07urQebi2NW
+[20-May-2025 07:39:54 Europe/Berlin] Password verify result: false
+[20-May-2025 07:40:00 Europe/Berlin] Login attempt for user: admin
+[20-May-2025 07:40:00 Europe/Berlin] Provided password: admin123
+[20-May-2025 07:40:00 Europe/Berlin] Stored hash: $2y$12$t5GnksxpbdpxjMZPncxkE.GnULJRnTTLUSYMbiQfKq07urQebi2NW
+[20-May-2025 07:40:00 Europe/Berlin] Password verify result: false
+[20-May-2025 08:01:58 Europe/Berlin] Login attempt for user: admin
+[20-May-2025 08:01:58 Europe/Berlin] Provided password: admin123
+[20-May-2025 08:01:58 Europe/Berlin] Stored hash: admin123
+[20-May-2025 08:01:58 Europe/Berlin] Password verify result: false
+[20-May-2025 08:02:18 Europe/Berlin] Login attempt for user: admin
+[20-May-2025 08:02:18 Europe/Berlin] Provided password: admin123
+[20-May-2025 08:02:18 Europe/Berlin] Stored hash: $2y$12$t5GnksxpbdpxjMZPncxkE.GnULJRnTTLUSYMbiQfKq07urQebi2NW
+[20-May-2025 08:02:18 Europe/Berlin] Password verify result: false
+[20-May-2025 08:02:28 Europe/Berlin] Login attempt for user: admin
+[20-May-2025 08:02:28 Europe/Berlin] Provided password: admin123
+[20-May-2025 08:02:28 Europe/Berlin] Stored hash: $2y$12$t5GnksxpbdpxjMZPncxkE.GnULJRnTTLUSYMbiQfKq07urQebi2NW
+[20-May-2025 08:02:28 Europe/Berlin] Password verify result: false
+[20-May-2025 08:04:15 Europe/Berlin] Login attempt for user: admin
+[20-May-2025 08:04:15 Europe/Berlin] Provided password: admin123
+[20-May-2025 08:04:15 Europe/Berlin] Stored hash: $2y$12$dnC.jAm4cf/O/CyBFttY8uf3zS0CCTVTqwtvxjtbz9UOS6bmGlJoq
+[20-May-2025 08:04:16 Europe/Berlin] Password verify result: false
+[20-May-2025 08:52:43 Europe/Berlin] Error fetching customers: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CreditBalance' in 'field list'
+[20-May-2025 08:52:46 Europe/Berlin] Error fetching customers: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CreditBalance' in 'field list'
+[20-May-2025 08:52:58 Europe/Berlin] Error fetching customers: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CreditBalance' in 'field list'
+[20-May-2025 10:39:00 Europe/Berlin] [2025-05-20 10:39:00] Database Error in customer_profile.php (Line: 42): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'LastActive' in 'field list'
+
+[21-May-2025 02:36:02 Europe/Berlin] [2025-05-21 02:36:02] Database Error in customer_profile.php (Line: 42): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'LastActive' in 'field list'
+
+[21-May-2025 02:44:03 Europe/Berlin] [2025-05-21 02:44:03] Database Error in customer_profile.php (Line: 42): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'LastActive' in 'field list'
+
+[21-May-2025 02:51:34 Europe/Berlin] PHP Warning:  include(includes/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\POS\customer_profile.php on line 163
+[21-May-2025 02:51:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\POS\customer_profile.php on line 163
+[21-May-2025 04:19:18 Europe/Berlin] Transaction error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CreditBalance' in 'field list'
+[21-May-2025 04:58:07 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 195
+[21-May-2025 04:58:07 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 199
+[21-May-2025 04:58:07 Europe/Berlin] PHP Warning:  Undefined variable $customer in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[21-May-2025 04:58:07 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[21-May-2025 04:58:07 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 242
+[21-May-2025 05:26:45 Europe/Berlin] Transaction error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CreditBalance' in 'field list'
+[21-May-2025 09:00:25 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 195
+[21-May-2025 09:00:25 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 199
+[21-May-2025 09:00:25 Europe/Berlin] PHP Warning:  Undefined variable $customer in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[21-May-2025 09:00:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[21-May-2025 09:00:25 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 242
+[21-May-2025 09:00:31 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 195
+[21-May-2025 09:00:31 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 199
+[21-May-2025 09:00:31 Europe/Berlin] PHP Warning:  Undefined variable $customer in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[21-May-2025 09:00:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[21-May-2025 09:00:31 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 242
+[21-May-2025 09:00:34 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 195
+[21-May-2025 09:00:34 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 199
+[21-May-2025 09:00:34 Europe/Berlin] PHP Warning:  Undefined variable $customer in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[21-May-2025 09:00:34 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[21-May-2025 09:00:34 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 242
+[21-May-2025 09:00:40 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 195
+[21-May-2025 09:00:40 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 199
+[21-May-2025 09:00:40 Europe/Berlin] PHP Warning:  Undefined variable $customer in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[21-May-2025 09:00:40 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[21-May-2025 09:00:40 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 242
+[21-May-2025 10:01:00 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 195
+[21-May-2025 10:01:00 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 199
+[21-May-2025 10:01:00 Europe/Berlin] PHP Warning:  Undefined variable $customer in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[21-May-2025 10:01:00 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[21-May-2025 10:01:00 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 242
+[22-May-2025 02:45:12 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 195
+[22-May-2025 02:45:12 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 199
+[22-May-2025 02:45:12 Europe/Berlin] PHP Warning:  Undefined variable $customer in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[22-May-2025 02:45:12 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[22-May-2025 02:45:12 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 242
+[22-May-2025 02:57:35 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 195
+[22-May-2025 02:57:35 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 199
+[22-May-2025 02:57:35 Europe/Berlin] PHP Warning:  Undefined variable $customer in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[22-May-2025 02:57:35 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[22-May-2025 02:57:35 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 242
+[22-May-2025 02:57:41 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 195
+[22-May-2025 02:57:41 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 199
+[22-May-2025 02:57:41 Europe/Berlin] PHP Warning:  Undefined variable $customer in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[22-May-2025 02:57:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[22-May-2025 02:57:41 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 242
+[22-May-2025 03:05:32 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 195
+[22-May-2025 03:05:32 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 199
+[22-May-2025 03:05:32 Europe/Berlin] PHP Warning:  Undefined variable $customer in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[22-May-2025 03:05:32 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\POS\edit_customer.php on line 206
+[22-May-2025 03:05:32 Europe/Berlin] PHP Warning:  Undefined variable $customerID in C:\xampp\htdocs\POS\edit_customer.php on line 242
+[22-May-2025 03:11:43 Europe/Berlin] Transaction error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CreditBalance' in 'field list'
+[22-May-2025 03:58:14 Europe/Berlin] Transaction error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CreditBalance' in 'field list'
+[22-May-2025 03:59:52 Europe/Berlin] Transaction error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CreditBalance' in 'field list'
+[02-Jul-2025 03:11:39 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[07-Jul-2025 08:23:05 Europe/Berlin] Error fetching data: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:23:07 Europe/Berlin] Error fetching data: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:23:14 Europe/Berlin] Error fetching data: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:23:15 Europe/Berlin] Error fetching data: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:23:19 Europe/Berlin] Error fetching data: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:40:40 Europe/Berlin] Error fetching employee credits: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:40:46 Europe/Berlin] Error fetching employee credits: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:40:47 Europe/Berlin] Error fetching employee credits: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:40:49 Europe/Berlin] Error fetching employee credits: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:48:34 Europe/Berlin] Error fetching employee credits: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:49:00 Europe/Berlin] Error fetching employee credits: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:59:54 Europe/Berlin] Error fetching employee credits: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:59:56 Europe/Berlin] Error fetching employee credits: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
+[07-Jul-2025 08:59:58 Europe/Berlin] Error fetching employee credits: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.FullName' in 'field list'
